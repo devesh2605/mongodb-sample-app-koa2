@@ -1,0 +1,29 @@
+{
+  "name": "mongodb-sample-app-koa2",
+  "version": "1.0.0",
+  "description": "Sample restApi in koa2",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devesh2605/mongodb-sample-app-koa2.git"
+  },
+  "keywords": [
+    "nodejs",
+    "koa2",
+    "mongodb"
+  ],
+  "author": "Devesh Vyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devesh2605/mongodb-sample-app-koa2/issues"
+  },
+  "homepage": "https://github.com/devesh2605/mongodb-sample-app-koa2#readme",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-router": "^7.2.1",
+    "mongoose": "^4.12.0"
+  }
+}
